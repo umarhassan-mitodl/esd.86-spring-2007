@@ -5,6 +5,8 @@ description: This resource contains recitation notes on the Bernoulli distributi
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/a8fb567d24ffcf750211613a8639701d_rec1.pdf
 file_size: 39040
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains lecture slides on the broken stick experimen
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/b6bd21f0275ee5330fbe861899c48ae6_lec3.pdf
 file_size: 335900
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

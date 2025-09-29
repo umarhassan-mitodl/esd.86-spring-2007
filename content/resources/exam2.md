@@ -4,6 +4,8 @@ description: 'This resource contains Exam #2 for the course.'
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/d57b6917f7a42794fc05477c7a9d118e_exam2.pdf
 file_size: 76715
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

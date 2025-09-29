@@ -4,6 +4,8 @@ description: This resource contains lecture slides on random incidence and other
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/7060ce0aa4c4eed15d51539ea51d7828_lec6.pdf
 file_size: 451394
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

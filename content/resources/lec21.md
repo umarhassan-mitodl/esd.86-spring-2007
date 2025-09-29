@@ -4,6 +4,8 @@ description: This resource contains lecture slides on the design of computer exp
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/3855fa4fbdb5cbdc59f7ac7348a38fa7_lec21.pdf
 file_size: 371757
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

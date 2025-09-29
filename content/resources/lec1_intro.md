@@ -5,6 +5,8 @@ description: This resource contains lecture slides with an introduction and over
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/2ebe106407339f82b451d497f44c9098_lec1_intro.pdf
 file_size: 447979
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
