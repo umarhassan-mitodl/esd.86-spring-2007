@@ -45,7 +45,7 @@ Two books are recommended but not required for this class.
 
 Wu, C. F. Jeff, and Michael Hamada. *Experiments: Planning, Analysis, and Parameter Design Optimization*. New York, NY: J. Wiley & Sons, 2000. ISBN: 9780471255116.
 
-Larson, Richard C., and Amedeo R. Odoni. *Urban Operations Research*. 2nd ed. Belmont, MA: Dynamic Ideas, 2007. ISBN: 9780975914632. (A version of this text is also available [online](http://web.mit.edu/urban_or_book/www/book/).)
+Larson, Richard C., and Amedeo R. Odoni. *Urban Operations Research*. 2nd ed. Belmont, MA: Dynamic Ideas, 2007. ISBN: 9780975914632. (A version of this text is also available {{% resource_link "9d101aee-d49b-4cda-887e-0230ee818abb" "online" %}}.)
 
 Additional readings from other sources will be assigned during the term.
 
