@@ -4,8 +4,6 @@ description: This resource contains lecture slides on analyzing a probability pr
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/2b55649e3a413f0a06ad03e0cc6d7c16_lec2.pdf
 file_size: 462397
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains lecture slides on the queue inference engine
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/992dfd57bc582815650f493f72c8d0cf_lec12a.pdf
 file_size: 116944
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains lecture slides on analysis of variance, with
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/a087641dcf0b753824013f443e3c9dde_lec17.pdf
 file_size: 204099
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

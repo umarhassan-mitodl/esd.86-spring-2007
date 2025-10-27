@@ -5,8 +5,6 @@ description: This resource contains lecture slides on Markov processes and their
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/6f188063c7051ea94c5db10683665f21_lec9.pdf
 file_size: 375062
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

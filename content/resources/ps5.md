@@ -4,8 +4,6 @@ description: This resource contains a problem set.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/aec62cd93c3f1252631dcb367f4b7fcd_ps5.pdf
 file_size: 27296
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

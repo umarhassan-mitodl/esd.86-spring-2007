@@ -5,8 +5,6 @@ description: This resource contains lecture slides on derived distributions to s
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/e9aeca9e442bbdf6bb98cf3a5addb2fa_lec11.pdf
 file_size: 73645
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

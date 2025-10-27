@@ -4,8 +4,6 @@ description: This resource contains lecture slides on hypothesis testing.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/732c66385dd88c312f6036baf8b8da56_lec14.pdf
 file_size: 313379
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

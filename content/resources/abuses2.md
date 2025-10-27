@@ -7,8 +7,6 @@ description: 'This resource contains an example of student work: a winner of the
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/579abd23523f7740ae578da5864a254b_abuses2.pdf
 file_size: 21118
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

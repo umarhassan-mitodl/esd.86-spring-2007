@@ -5,8 +5,6 @@ description: This resource contains lecture slides on the design of experiments,
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/ac00ac5922ad6b6916623f857e590803_lec20.pdf
 file_size: 376115
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
